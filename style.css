@@ -1,0 +1,39 @@
+*{
+   margin: 3px;
+   padding: 8px;
+
+}
+
+body{
+    background-color:  blueviolet;
+
+    color:black;
+    text-align: center;
+    
+}
+
+h1{
+    background-color:white
+}
+
+strong{
+    color: yellow;
+    
+
+}
+.apresentacao_links{
+    display: flex;
+}   justify-content: space-beteween;
+
+.apresentacao_links_link{
+    background-color: #22D4FD;
+    width: 280px;
+    text-align: center;
+    border-radius: 16px ;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: #000000;
+    font-family: Montserrat; sans-sarif;
+}
